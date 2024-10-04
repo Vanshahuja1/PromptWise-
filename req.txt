@@ -1,0 +1,10 @@
+streamlit
+transformers
+PyMuPDF
+langdetect
+easyocr
+numpy
+Pillow
+sentencepiece
+pdfplumber
+googletrans==4.0.0-rc1
